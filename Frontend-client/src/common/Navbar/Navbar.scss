@@ -1,0 +1,23 @@
+nav.navbar {
+	z-index: 9;
+	// html.dark & h4 {
+	// 	color: #fff;
+	// }
+	a {
+		border-radius: 5px;
+		background-color: var(--green-bg);
+	}
+	.bx-menu-burger-icon:hover {
+		color: var(--green-color);
+	}
+}
+.mobile-auth-link {
+    border: 0;
+    background: var(--green-bg);
+    color: var(--fixed-white-c);
+    border-radius: 5px;
+    padding: 8px 12px;
+    font-weight: 700;
+    text-decoration: none;
+    cursor: pointer;
+}
