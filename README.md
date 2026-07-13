@@ -240,9 +240,8 @@ npm run dev
 ```
 
 
-## Team
+## Author
 
-- `Ranveer Singh`
-- `Imran Ali`
+- `Shivansh Shukla`
 
 
