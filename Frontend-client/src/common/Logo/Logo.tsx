@@ -29,7 +29,7 @@ const Logo = ({ disabled = false, compressSidebar }: LogoProps) => {
                     <h4 className="text-lg black-c font-semibold mb-0 ">
                          <span className="green-c">BHEL</span>
                     </h4>
-                    <p className="text-sm gray-c font-normal mb-0 ">Task Scheduler</p>
+                    <p className="text-sm gray-c font-normal mb-0 ">Smart Factory Task Scheduler</p>
                 </div>
             )}
         </div>

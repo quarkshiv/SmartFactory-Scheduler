@@ -5,7 +5,7 @@ const SocialLinks = () => {
         <div className="footer-right">
             <div className="social-links">
                 <a
-                    href="https://linkedin.com/in/ranveer-singh-2023542b4/"
+                    href="https://www.linkedin.com/in/shivansh-shukla-26807a356/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="social-link-icon linkedin"
@@ -15,7 +15,7 @@ const SocialLinks = () => {
                 </a>
 
                 <a
-                    href="https://github.com/singhran-veer/"
+                    href="https://github.com/quarkshiv"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="social-link-icon github"

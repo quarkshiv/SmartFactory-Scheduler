@@ -10,11 +10,12 @@ const FooterBottom = () => {
                 <p className="developer-credit">
                     Designed & Developed by{" "}
                     <a
-                        href=""
-                        
+                        href="https://github.com/quarkshiv/SmartFactory-Scheduler"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         className="developer-link underline-hover"
                     >
-                        Ranveer Singh, Imran Ali
+                        Shivansh Shukla
                     </a>
                 </p>
             </div>
