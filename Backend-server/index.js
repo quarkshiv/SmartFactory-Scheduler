@@ -139,7 +139,7 @@ app.use((req, res) => {
 // =======================
 // START SERVER
 // =======================
-if (process.env.NODE_ENV === "production") {
+if (process.env.VERCEL) {
     connectDB();
     module.exports = app;
 } else {
